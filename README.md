@@ -57,6 +57,7 @@ I'm a remote sensing scientist with a **Ph.D. in Physics (microwave remote sensi
 
 | Project | What it does |
 |---|---|
+| 📡 [**SCoBi**](https://github.com/impresslab/SCoBi) *(contributor)* | Signals of Opportunity Coherent Bistatic Scattering Simulator: an open-source, fully polarimetric bistatic scattering simulator. My work extends its GNSS-transmissivity modeling to realistic, LiDAR-derived forest architecture |
 | 🛰️ [**satellite-data-search**](https://github.com/SAY70/satellite-data-search) | Satellite Data Search & Overpass Forecast Toolkit: pick an AOI, search and download Sentinel scenes, forecast future overpasses and track orbits live |
 | 🥔 [**CAR-CNN-BiRNN**](https://github.com/SAY70/CAR-CNN-BiRNN) | Context-aware Conv1D-BiGRU-BiLSTM network for potato yield prediction from time-series UAS multispectral data |
 | 💼 [**jobscout**](https://github.com/SAY70/jobscout) | Finds visa-sponsoring faculty and research-scientist jobs: a free job-board search with a Streamlit app, no AI required |
