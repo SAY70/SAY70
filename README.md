@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:3a7d44&height=200&section=header&text=Suraj%20A.%20Yadav&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Remote%20Sensing%20%E2%80%A2%20Computational%20Electromagnetics%20%E2%80%A2%20AI%20for%20Agriculture&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:3a7d44&height=200&section=header&text=Suraj%20A.%20Yadav&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Remote%20Sensing%20%E2%80%A2%20Computational%20Electromagnetics%20%E2%80%A2%20GeoAI%20for%20forest%20and%20Agriculture&descAlignY=58&descSize=16" width="100%"/>
 
 <p align="center">
   <a href="https://say70.github.io">
