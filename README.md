@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://say70.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=3A7D44&center=true&vCenter=true&width=640&lines=Postdoctoral+Research+Associate+%40+Mississippi+State;UAV+multispectral+%7C+hyperspectral+%7C+LiDAR+analytics;Physics-guided+deep+learning+for+crop+traits;Radar+%26+GNSS+scattering+models+for+vegetation" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=3A7D44&center=true&vCenter=true&width=640&lines=GeoAI;Microwave+Remote+Sensing;Applied+Electromagnetics;Physics-Guided+Machine+Learning;Large+Simulation+Ensembles+on+HPC" alt="Typing intro"/>
   </a>
 </p>
 
@@ -18,14 +18,16 @@
 
 ### 🛰️ About me
 
-I'm a **Postdoctoral Research Associate** in the Department of Agricultural & Biological Engineering at **Mississippi State University**. My work sits where **computational electromagnetics, remote sensing and machine learning** meet:
+I'm a remote sensing scientist with a **Ph.D. in Physics (microwave remote sensing)** and four years of postdoctoral experience at **Mississippi State University** in Agricultural and Biological Engineering and in Electrical and Computer Engineering. My work joins **field measurement, radiative transfer physics and machine learning** to study soil moisture, vegetation water, canopy structure and disturbance, from field plots to satellites.
 
-- 🌽 **UAV sensing for agriculture**: multispectral, hyperspectral and LiDAR pipelines for crop monitoring, yield prediction and leaf biochemistry retrieval
-- 🧠 **Physics-guided deep learning**: differentiable radiative-transfer models (e.g. PROSPECT-DNN) and transfer learning across crops
-- 📡 **Microwave and GNSS scattering**: radiative-transfer and transmissivity models for forest and crop canopies, and bistatic radar calibration
-- 🌲 **3D canopy structure**: voxelized LiDAR analytics and procedural virtual forests
+- 🚁 I plan and fly **UAS campaigns** with multispectral, hyperspectral, thermal and LiDAR payloads, maintain radiometric and BRDF calibration, collect destructive field samples, and reconstruct forest structure from terrestrial LiDAR.
+- 🛰️ My experience spans global **multi-mission satellite data** acquisition and processing (Google Earth Engine, Sentinel-1/2, Landsat, SMAP, MODIS).
+- 📡 I develop **radiative transfer and scattering models**, including modifying model source code, and run **large simulation ensembles on HPC clusters**.
+- 🔥 I model **forest fire behavior and smoke** with FDS (Fire Dynamics Simulator) and visualize it in Smokeview.
+- 🛠️ I design, build and calibrate the instruments, including a **multi-frequency bistatic scatterometer** operated over full seasons.
+- 🧑‍🏫 I have taught as **instructor of record** and in remote sensing laboratories, release open-source tools including **EOScout**, and mentor undergraduate and graduate researchers from field campaign through to publication.
 
-🎓 PhD in Physics (Remote Sensing), IIT (BHU) Varanasi · Fulbright-Nehru Doctoral Research Fellow (UMass Amherst) · IEEE GRSS Mikio Takagi Student Prize, IGARSS 2022
+🎓 PhD in Physics (Microwave Remote Sensing)
 
 ---
 
@@ -42,7 +44,10 @@ I'm a **Postdoctoral Research Associate** in the Department of Agricultural & Bi
   <img src="https://img.shields.io/badge/ESA%20SNAP-003247?style=flat-square"/>
   <img src="https://img.shields.io/badge/PolSARpro-2c5364?style=flat-square"/>
   <img src="https://img.shields.io/badge/ENVI-3a7d44?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ArcMap-2C7AC3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FDS%20%2B%20Smokeview-C0392B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HPC%20clusters-4B0082?style=flat-square"/>
   <img src="https://img.shields.io/badge/Planetary%20Computer-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 </p>
 
@@ -52,11 +57,8 @@ I'm a **Postdoctoral Research Associate** in the Department of Agricultural & Bi
 
 | Project | What it does |
 |---|---|
-| 🍃 [**A-Differentiable-PROSPECT-DNN**](https://github.com/SAY70/A-Differentiable-PROSPECT-DNN) | Physics-guided differentiable PROSPECT + DNN for inverting maize leaf biochemistry |
-| 🚁 [**UAV phenotyping & yield prediction**](https://github.com/SAY70/UAV-phenotyping-and-Yield-prediction-models--Talk-at-UGA-) | UAV-based crop phenotyping and yield-prediction models (talk at UGA) |
 | 🛰️ [**satellite-data-search**](https://github.com/SAY70/satellite-data-search) | Satellite Data Search & Overpass Forecast Toolkit: pick an AOI, search and download Sentinel scenes, forecast future overpasses and track orbits live |
 | 🥔 [**CAR-CNN-BiRNN**](https://github.com/SAY70/CAR-CNN-BiRNN) | Context-aware Conv1D-BiGRU-BiLSTM network for potato yield prediction from time-series UAS multispectral data |
-| 🌳 [**Space-Colonization-Virtual-Forest**](https://github.com/SAY70/Space-Colonization-Virtual-Forest) · [**L-fractal-Forest**](https://github.com/SAY70/L-fractal-Forest) | Procedural 3D tree and forest generation (space colonization and L-systems) |
 | 💼 [**jobscout**](https://github.com/SAY70/jobscout) | Finds visa-sponsoring faculty and research-scientist jobs: a free job-board search with a Streamlit app, no AI required |
 
 ---
