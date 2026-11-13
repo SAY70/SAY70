@@ -71,8 +71,4 @@ I'm a **Postdoctoral Research Associate** in the Department of Agricultural & Bi
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAY70&bg_color=0d1117&color=3a7d44&line=2c5364&point=ffffff&area=true&hide_border=true" width="95%"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7d44,50:2c5364,100:0f2027&height=110&section=footer" width="100%"/>
